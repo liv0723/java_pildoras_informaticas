@@ -1,4 +1,4 @@
-package com.java_se.main_structures;
+package com.java_se.$1_main_structures;
 
 public class DataTypeBool {
     static boolean isPair;
